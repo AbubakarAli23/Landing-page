@@ -115,3 +115,19 @@ body {
     gap: 50px;
 
 }
+
+.call {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.action {
+    width: 700px;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
